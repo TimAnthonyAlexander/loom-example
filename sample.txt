@@ -1,0 +1,10 @@
+# Sample File
+
+This is a sample file created to demonstrate Loom's editing capabilities.
+You can later use EDIT tasks to modify any of these lines safely.
+
+1. First line of the sample.
+2. Second line of the sample.
+3. Third line of the sample.
+
+Feel free to request edits—for example, changing line 2 to something else.

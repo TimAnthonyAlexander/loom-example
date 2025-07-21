@@ -1,0 +1,10 @@
+{
+  "model": "openai:o4-mini",
+  "enable_shell": false,
+  "max_file_size": 512000,
+  "api_key": "",
+  "base_url": "",
+  "llm_timeout": 120,
+  "llm_stream_timeout": 300,
+  "llm_max_retries": 3
+}
