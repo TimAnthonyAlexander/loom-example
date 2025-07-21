@@ -1,0 +1,20 @@
+/* Smooth scroll to sections */
+html {
+  scroll-behavior: smooth;
+}
+
+/* App-level typography */
+h1, h2, h3 {
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  border-bottom: 2px solid #0066cc;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
